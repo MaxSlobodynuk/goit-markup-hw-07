@@ -723,7 +723,7 @@ img{
 }
 
 .filter-btn{
-    display: flex;
+    display: none;
     gap: 24px;
     margin-bottom: 72px;
     margin-left: auto;

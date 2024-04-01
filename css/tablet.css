@@ -7,6 +7,10 @@
         padding-right: 15px;
     }
 
+    .filter-btn {
+        display: flex;
+    }
+
     /* --- Header --- */
 
     .site-nav{
